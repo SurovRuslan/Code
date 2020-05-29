@@ -61,7 +61,7 @@ public class Main {
     public static int mult(int firstMult, int secondMult) {
         return firstMult * secondMult;
     }
-    public static int div(int dividend, int divisor) {
+    public static double div(double dividend, int divisor) {
         return dividend / divisor;
     }
 }
